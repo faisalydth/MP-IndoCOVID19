@@ -15,13 +15,13 @@ In this part, we will know what happened with the COVID-19 cases in Indonesia by
 
 You can see the syntax here:
 
-- [py_indonesian_covid19.ipynb](https://github.com/faisalydth/MP-IndoCOVID19/blob/main/py_indonesian_covid19.ipynb)
-- [py_indonesian_covid19.pdf](https://github.com/faisalydth/MP-IndoCOVID19/blob/main/py_indonesian_covid19.pdf)
+- [py_indonesian_covid19.ipynb](https://github.com/faisalydth/mp-covid19-indonesia/blob/main/py_indonesian_covid19.ipynb)
+- [py_indonesian_covid19.pdf](https://github.com/faisalydth/mp-covid19-indonesia/blob/main/exported/py_indonesian_covid19.pdf)
 
 Then, I export the clean data of Indonesian COVID-19 Daily Cases which I have processed to table in CSV format.
 This table is used to make a dashboard of the cases for the next step.
 
-CSV File: [indonesian_covid19_daily_20211116_163027.csv](https://github.com/faisalydth/MP-IndoCOVID19/blob/main/indonesian_covid19_daily_20211116_163027.csv)
+CSV File: [indonesian_covid19_daily_20211116_163027.csv](https://github.com/faisalydth/mp-covid19-indonesia/blob/main/dataset/indonesian_covid19_daily_20211116_163027.csv)
 
 ## Data Visualization
 
@@ -33,9 +33,9 @@ The interesting part is, we know in what month there are many cases from the his
 
 You can see the dashboard here:
 
-- [viz_indonesian_covid19.pbix](https://github.com/faisalydth/MP-IndoCOVID19/blob/main/viz_indonesian_covid19.pbix)
-- [viz_indonesian_covid19.pdf](https://github.com/faisalydth/MP-IndoCOVID19/blob/main/viz_indonesian_covid19.pdf)
-- [viz_indonesian_covid19.png](https://github.com/faisalydth/MP-IndoCOVID19/blob/main/viz_indonesian_covid19.png)
+- [viz_indonesian_covid19.pbix](https://github.com/faisalydth/mp-covid19-indonesia/blob/main/viz_indonesian_covid19.pbix)
+- [viz_indonesian_covid19.pdf](https://github.com/faisalydth/mp-covid19-indonesia/blob/main/exported/viz_indonesian_covid19.pdf)
+- [viz_indonesian_covid19.png](https://github.com/faisalydth/mp-covid19-indonesia/blob/main/exported/viz_indonesian_covid19.png)
 
 ## Closing
 
